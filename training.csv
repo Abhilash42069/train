@@ -1,0 +1,21 @@
+Patient Id,Patient Age,Genes in mother side,Inherited from father,Maternal gene
+1,2,Yes,No,Yes
+2,4,Yes,Yes,No
+3,6,Yes,No,No
+4,12,Yes,No,Yes
+5,11,Yes,No,
+6,14,Yes,No,Yes
+7,3,No,No,Yes
+8,3,No,No,Yes
+9,11,No,No,Yes
+10,4,Yes,Yes,Yes
+11,6,No,No,
+12,7,Yes,No,No
+13,1,Yes,Yes,No
+14,0,Yes,No,No
+15,6,No,No,Yes
+16,0,Yes,No,No
+17,4,Yes,Yes,Yes
+18,5,Yes,Yes,Yes
+19,13,Yes,No,
+20,11,Yes,Yes,No
